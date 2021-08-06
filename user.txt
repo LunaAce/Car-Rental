@@ -1,0 +1,7 @@
+Admin,pikachu,12345,Chew Jin Ye,Male,Klang,010-666666
+Admin,ultraman,12345,Chew Eng Sen,Male,Klang ,012-999999
+Customer,lunarc,12345,Wong Bak Siu,Male,Sabah,013-7878778
+Customer,ravenc,12345,Bang Guang Char,Female,Sarawak,019-3737687
+Customer,mahiaddin,12345,Keropok,Female,Sarawak,019-3732287
+Customer,xiangerrrr,12345,Mee Hub Ger,Male,Penang,019-1237687
+Customer,obama,12345,Xiao Long Bao,Female,Sarawak,019-3763871

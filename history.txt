@@ -1,0 +1,2 @@
+Returned,Honda,Type-R,HTR 2537,2021,900,lunarc,500,2021-6-21,7
+Returned,Lamborghini,Vendor-S,LAS 9876,2021,700,ravenc2,600,2021-6-21,7

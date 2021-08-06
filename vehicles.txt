@@ -1,0 +1,20 @@
+Available,Honda,Accord  ,BMW 8888,2021,300,'customer',0,time,Day
+Booked,Toyota,Type-R,DLM 9999,2021,300,lunarc,0,time,7
+Rented,Honda,Type-R,HTR 2537,2021,900,lunarc,200 ,2021-06-13,7
+Booked,Lamborghini,Vendor-S,LAS 9876,2021,700,ravenc,600,2021-06-13,7
+Booked,BMW,X1,MC 8912,2021,450,obama,100,2021-05-13,3
+Available,Mercedes,AMG,AMG 2522,2021,900,obama,0,time,Day
+Booked,BMW,X5,BKC 2666,2021,650,obama,300 ,2021-03-13,7
+Rented,Mercedes,GLC200,TYT 8871,2021,600,obama,0,2021-03-13,6
+Available,BMW,I8,GGG 2111,2021,1000,obama,0,time,Day
+Available,Roll-Royce,Ghost,WWW 1,2021,8000,mahiaddin,0,time,Day
+Rented ,BMW,M4,CDC 1233,2021,800,mahiaddin,100,2021-01-13,5
+Available,Porsche,911,DDL 1233,2021,750,mahiaddin ,0,time,Day
+Booked,Aston-Matin,Vantage,WWE 9696,2021,800,lunarc,300 ,2021-06-01,1
+Booked,BMW,7-series,CCC 1212,2021,300,lunarc,0,2021-03-13,2
+Rented,Bugatti,Divo,WIN 6666,2021,10000,lunarc,0,2021-06-03,5
+Available,Mercedes,A45,DDM 2153,2021,200,lunarc,0,time,Day
+Booked,McLaren,720-S,TOP 1,2021,4500,lunarc,100,2021-02-01,4
+Booked,Porsche,911,PO 12,2021,900,lunarc,0,2021-03-13,7
+Rented,Perodua,Myvi,Malaysia 1,2021,400000,mahiaddin,0,2021-06-26,365
+Rented,Perodua,Myvi,Malaysia 2,2021,350000,obama,0,2021-06-26,365
